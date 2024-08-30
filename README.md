@@ -13,7 +13,7 @@
 **Display Response:** The response is displayed on the application.  
 
 ## 🎥 Watch Video
-[![Watch the video](images/emotion_1_play.png)](https://drive.google.com/drive/u/0/folders/1RM5AV4OvoYzStK8QC5svQgR9nc6KWhwD)
+[![Watch the video](images/docquery.png)](https://drive.google.com/drive/u/0/folders/1RM5AV4OvoYzStK8QC5svQgR9nc6KWhwD)
 
 ## Installation
 

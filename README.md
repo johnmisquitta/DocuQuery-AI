@@ -1,5 +1,5 @@
 
-#  RiDiv-Assignment PDF Chatbot Assignment
+# PDF Chatbot Assignment
 
 ## Description and Features
 
@@ -45,7 +45,7 @@ To set up this project locally, follow these steps:
    ```
     Create a `.env` file and add your API Key.
    ```
-7. **Navigate to the project directory RiDiv-Assignment:**
+7. **Navigate to the project directory:**
     ```bash
     cd my-awesome-project
     ```
